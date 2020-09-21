@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/sunnymoran/sunnymoran.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a 23 year old Computer Science major who is currently in his Junior year at Boise State University. I enjoy all types of things from sports, computers, math, and learning in general. I'm diverse in my skill set and always do my best to learn something new everyday. I enjoy challenges and pushing myself beyound my limits. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### “Do not pray for easy lives. Pray to be stronger men." - JFK
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm currently seeking internships and positions that will help me challenge myself. I've just recently got into machine learning and data science which really exists me. 
 
 ```markdown
 Syntax highlighted code block
