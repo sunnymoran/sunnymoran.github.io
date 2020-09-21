@@ -7,29 +7,27 @@ I'm a 23 year old Computer Science major who is currently in his Junior year at 
 I'm currently seeking internships and positions that will help me challenge myself. I've just recently got into machine learning and data science which really exists me. 
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+**Sunny Moran**
 
-1. Numbered
-2. List
+public static void main(String[] args){
 
-**Bold** and _Italic_ and `Code` text
+String eagles = "philadelphiaEagles";
+String win = "win";
+String lose = "lose";
 
-[Link](url) and ![Image](src)
-```
+if(eagles == win)
+{
+  System.out.println("I'm Happy!:D");
+}
+else if(eagles == lose
+{
+  System.out.println("I'm sad:(");
+}
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sunnymoran/sunnymoran.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The best way to reach contact me is by email at sunnymoran@u.boisestate.edu
