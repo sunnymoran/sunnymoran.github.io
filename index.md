@@ -63,3 +63,15 @@ Green Destiny is an example of what supercomputers could be in the future if a m
 ### Conclusion 
 
 When it comes to solving some of the hardest problems in existence it requires lots of data to be processed. Data that isn’t easily digestible by your average computer. Through the use of supercomputers we are able to develop solutions for  improved agricultural management, understanding of  soil fertility, and improved agricultural management. From the original cray-1 to the Toubkal supercomputer, progress has been made in the past 60+ years that has opened new doors for research and discovery. Despite there being massive improvements in the development of these machines it's important to note that current machines are reaching a  ceiling based on Moore’s Law of Consumption. The key to breaking past this ceiling is to find new and sustainable models for supercomputing that help to overcome the current barriers facing newer models such as power/space consumption. When it comes to power and speed these machines help to process data that was once imaginable, and because of that their field is one of the most exciting and useful tools for developing a better future. 
+
+### References
+
+- ASCC. “ASCC.” ASCC - African SuperComputing Center, 23 Feb. 2021, ascc.um6p.ma.
+- McNeill, Tom. “What Is Supercomputing?” Nimbix, 11 Mar. 2019, www.nimbix.net/what-is-supercomputing.
+- Thomas, Mike. “What Is a Supercomputer and How Does It Work?” Built In, 8 Apr. 2020, builtin.com/hardware/supercomputers.
+- Peckham, Oliver. “African Supercomputing Center Inaugurates ‘Toubkal,’ Most Powerful Supercomputer on the Continent.” HPCwire, 1 Mar. 2021, www.hpcwire.com/2021/02/25/african-supercomputing-center-inaugurates-toubkal-most-powerful-supercomputer-on-the-continent.
+- “Fujitsu and RIKEN Complete Joint Development of Japan’s Fugaku, the World’s Fastest Supercomputer.” HPCwire, 9 Mar. 2021, www.hpcwire.com/off-the-wire/fujitsu-and-riken-complete-joint-development-of-japans-fugaku-the-worlds-fastest-supercomputer.
+- C. Hsu and W. Feng, “A Power-Aware Run-Time System for High-Performance Computing,” Proc. ACM/
+IEEE SC2005 Conf. High Performance Networking and
+Computing, IEEE CS, 2005, p. 1
+Morgan, Timothy Prickett. “A First Peek At China’s Sunway Exascale Supercomputer.” The Next Platform, 10 Mar. 2021, www.nextplatform.com/2021/02/10/a-sneak-peek-at-chinas-sunway-exascale-supercomputer.
