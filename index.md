@@ -8,6 +8,8 @@ So what exactly are supercomputers? Supercomputers are massively complex machine
 
 Supercomputing enables problem solving on a whole different level but at the cost of space, money, and energy. Massive amounts of data in previous decades that were unable to be processed can be processed in mere seconds with the growth of these massive machines. Before we breakdown what current machines can do it's better to understand how the initial supercomputers were created. 
 
+ ![Supercomputers](https://miro.medium.com/max/1024/1*l2S9abygnJX1-eFTQkbS-Q.jpeg)
+
 ### The First Supercomputers
 
 Seymour cray is the name synonymously associated with supercomputers. His unofficial title is known as “the grandfather of supercomputers”.  In 1964 Seymour Cray designed one of the first computers capable of fast computations. These new types of machines were soon to be named “supercomputers”. The CDC 6600 was capable of top computing speeds of around 3 million floating point operations per second (megaFlops).It consisted of over 400,000 transistors, and more than 100 miles of hand-wiring. These numbers at the time were never before seen by a computer and provided a foundation for what was to come throughout the next several decades. 
@@ -16,6 +18,7 @@ After Seymour Cray's initial creation of the CDC 6600 he left to form his own co
 
 Unfortunately Seymour died in a car accident in 1996, but despite his death his ideas and concepts continued to live in future supercomputer models.. Japanese companies such as NEC, Fujitsu, and Hitachi continued to build vector-based supercomputers using his technology. During a brief period from 1993 to 1996, Fujitsu held the world’s fastest supercomputer. Boasting speeds above 600 gigaFLOPS which was influenced by Seymour Cray’s Cray machines.
 
+![Cray-1](http://images.computerhistory.org/revonline/images/500004254-03-01.jpg?w=600)
 
 ### African Supercomputer “Toubkal”
 
@@ -31,6 +34,8 @@ When it comes to the use of “Toubkal”, the current objectives that are being
 
 The Toubkal gives an insight into how far supercomputers have come and how the continent of Africa is working to become one of the premier countries in super computing usage to solve issues plaguing the continent. 
 
+![](https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/toubkal.jpg)
+
 ### China’s Sunway Exascale Supercomputer
 
 When it comes to the powerhouses of supercomputer development, the United States and China have constantly been in a class to develop some of the premiere machines. The title of the fastest and most powerful machine has gone back and forth between both countries but China hopes to take back that title with their newest and most powerful machine, the Sunway Exascale Supercomputer.
@@ -43,16 +48,18 @@ The machine utilizes a core group named SW52020 which in total holds at 520 core
 
 With twice the computing power as its predecessor the Sunway Exascale Supercomputer currently comes in at 3rd in the global ranking for most powerful supercomputers the world, just behind the Sierra, Lawrence Livermore National Laboratory and Summit,Oak Ridge National Laboratory. 
 
+![](https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/sunway-taihulight-superconputer.jpg)
 
 ### Efficient Supercomputing
 
 When it comes to the increase of efficiency, speed, and power there is typically always a tradeoff. In the world of supercomputing that trade-off for decades of growth is the need for money, space, and energy. With the development of faster, bigger, and better machines it has put an immense strain on the field with a potential ceiling in sight. The only way to overcome this is to develop new and efficient ways to address the problems that are currently affecting the supercomputing field. 
 
-### Conclusion
-When it comes to solving some of the hardest problems in existence it requires lots of data to be processed. Data that isn’t easily digestible by your average computer. Through the use of supercomputers we are able to develop solutions for  improved agricultural management, understanding of  soil fertility, and improved agricultural management. From the original cray-1 to the Toubkal supercomputer, progress has been made in the past 60+ years that has opened new doors for research and discovery. Despite there being massive improvements in the development of these machines it's important to note that current machines are reaching a  ceiling based on Moore’s Law of Consumption. The key to breaking past this ceiling is to find new and sustainable models for supercomputing that help to overcome the current barriers facing newer models such as power/space consumption. When it comes to power and speed these machines help to process data that was once imaginable, and because of that their field is one of the most exciting and useful tools for developing a better future. 
-
-
 The development of more powerful supercomputers has led others to notice a negative trend in power consumption for supercomputers. This trend was discovered when comparing how much power nodes require in comparison to Moore’s Law for Power Consumption. It’s stated that the power consumption of computer nodes doubles every 18 months. This correlates with Moore’s law, which states that the number of transistors per square inch on a processor doubles every 18 months. With immensely high temperatures being created by these systems they require cooling to not render the equipment useless. This increase of temperature with each powerful new system created it causes a directly proportional to power consumption
 
 Green Destiny is an example of what supercomputers could be in the future if a more resources concise approach is taken. This machine utilizes a hardware-driven design that maximizes energy savings in an attempt to minimize the impact on the overall performance. Most supercomputers utilize a software-driven design that requires lots of power and cooling in order to render them useful. It’s speed and raw power aren’t like it’s peers but the machine serves as an example of how to avoid running into issues with Moore’s Law for Power Consumption. It serves as an alternative supercomputing model whose focus is on efficiency, reliability, availability, and versatility. 
 
+![](https://news-cdn.softpedia.com/images/news2/Green-Destiny-2.jpg)
+
+### Conclusion 
+
+When it comes to solving some of the hardest problems in existence it requires lots of data to be processed. Data that isn’t easily digestible by your average computer. Through the use of supercomputers we are able to develop solutions for  improved agricultural management, understanding of  soil fertility, and improved agricultural management. From the original cray-1 to the Toubkal supercomputer, progress has been made in the past 60+ years that has opened new doors for research and discovery. Despite there being massive improvements in the development of these machines it's important to note that current machines are reaching a  ceiling based on Moore’s Law of Consumption. The key to breaking past this ceiling is to find new and sustainable models for supercomputing that help to overcome the current barriers facing newer models such as power/space consumption. When it comes to power and speed these machines help to process data that was once imaginable, and because of that their field is one of the most exciting and useful tools for developing a better future. 
