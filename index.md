@@ -24,10 +24,10 @@ Toubkal (named after the moroccan mountain) is one of the newest supercomputers 
 The system ranks in at 98th out of the top 500 supercomputers but is rated as the number 1 supercomputer in the continent of Africa. The system is currently within the Mohammed VI Polytechnic University in Ben Guerir, Morocco. 
 
 When it comes to the use of “Toubkal”, the current objectives that are being given to the machine are as such:
-Modeling the genomes of African plants in need of protection
-modeling the genomes of microorganisms to better understand soil fertility
-processing satellite data for improved agricultural management
-analyzing meteorological data to aid in the integration of renewable energy projects
+- Modeling the genomes of African plants in need of protection
+- modeling the genomes of microorganisms to better understand soil fertility
+- processing satellite data for improved agricultural management
+- analyzing meteorological data to aid in the integration of renewable energy projects
 
 The Toubkal gives an insight into how far supercomputers have come and how the continent of Africa is working to become one of the premier countries in super computing usage to solve issues plaguing the continent. 
 
