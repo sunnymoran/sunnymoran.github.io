@@ -31,7 +31,7 @@ When it comes to the use of “Toubkal”, the current objectives that are being
 
 The Toubkal gives an insight into how far supercomputers have come and how the continent of Africa is working to become one of the premier countries in super computing usage to solve issues plaguing the continent. 
 
-###China’s Sunway Exascale Supercomputer
+### China’s Sunway Exascale Supercomputer
 
 When it comes to the powerhouses of supercomputer development, the United States and China have constantly been in a class to develop some of the premiere machines. The title of the fastest and most powerful machine has gone back and forth between both countries but China hopes to take back that title with their newest and most powerful machine, the Sunway Exascale Supercomputer.
 
@@ -48,7 +48,7 @@ With twice the computing power as its predecessor the Sunway Exascale Supercompu
 
 When it comes to the increase of efficiency, speed, and power there is typically always a tradeoff. In the world of supercomputing that trade-off for decades of growth is the need for money, space, and energy. With the development of faster, bigger, and better machines it has put an immense strain on the field with a potential ceiling in sight. The only way to overcome this is to develop new and efficient ways to address the problems that are currently affecting the supercomputing field. 
 
-##Conclusion
+### Conclusion
 When it comes to solving some of the hardest problems in existence it requires lots of data to be processed. Data that isn’t easily digestible by your average computer. Through the use of supercomputers we are able to develop solutions for  improved agricultural management, understanding of  soil fertility, and improved agricultural management. From the original cray-1 to the Toubkal supercomputer, progress has been made in the past 60+ years that has opened new doors for research and discovery. Despite there being massive improvements in the development of these machines it's important to note that current machines are reaching a  ceiling based on Moore’s Law of Consumption. The key to breaking past this ceiling is to find new and sustainable models for supercomputing that help to overcome the current barriers facing newer models such as power/space consumption. When it comes to power and speed these machines help to process data that was once imaginable, and because of that their field is one of the most exciting and useful tools for developing a better future. 
 
 
